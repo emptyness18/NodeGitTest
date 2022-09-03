@@ -1,0 +1,19 @@
+{
+  "name": "project1",
+  "version": "1.0.0",
+  "description": "Segundo test de nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emptyness18/NodeGitTest.git"
+  },
+  "author": "David Cordero",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emptyness18/NodeGitTest/issues"
+  },
+  "homepage": "https://github.com/emptyness18/NodeGitTest#readme"
+}
